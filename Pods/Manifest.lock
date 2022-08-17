@@ -1,0 +1,32 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - SnapKit (4.2.0)
+  - SwiftyGif (5.4.3)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - Reusable
+  - SnapKit (= 4.2.0)
+  - SwiftyGif
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - Reusable
+    - SnapKit
+    - SwiftyGif
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyGif: 6c3eafd0ce693cad58bb63d2b2fb9bacb8552780
+
+PODFILE CHECKSUM: 33434def2b1732b412b091595994a7a8c2575ba1
+
+COCOAPODS: 1.11.2
